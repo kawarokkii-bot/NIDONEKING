@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: d2f62982bc918d040a4e263ac4babcb6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: "\u5E8A 04"
+    100004: "\u5E8A\u982D\u6AC3 L 04"
+    100006: "\u5E8A\u982D\u6AC3 R 04"
+    100008: "\u5E95\u5EA7 04"
+    100010: "\u6795\u982D L 04"
+    100012: "\u6795\u982D R 04"
+    100014: "\u6BDB\u6BEF 04"
+    100016: "\u80CC\u677F B 04"
+    100018: "\u80CC\u677F F 04"
+    100020: "\u80CC\u677F F2 L 04"
+    100022: "\u80CC\u677F F2 R 04"
+    100024: "\u80CC\u677F M L 04"
+    100026: "\u80CC\u677F M R 04"
+    100028: "\u88AB\u5B50 04"
+    400000: //RootNode
+    400002: "\u5E8A 04"
+    400004: "\u5E8A\u982D\u6AC3 L 04"
+    400006: "\u5E8A\u982D\u6AC3 R 04"
+    400008: "\u5E95\u5EA7 04"
+    400010: "\u6795\u982D L 04"
+    400012: "\u6795\u982D R 04"
+    400014: "\u6BDB\u6BEF 04"
+    400016: "\u80CC\u677F B 04"
+    400018: "\u80CC\u677F F 04"
+    400020: "\u80CC\u677F F2 L 04"
+    400022: "\u80CC\u677F F2 R 04"
+    400024: "\u80CC\u677F M L 04"
+    400026: "\u80CC\u677F M R 04"
+    400028: "\u88AB\u5B50 04"
+    2100000: "\u5E8A"
+    2100002: "\u6DF1\u8272\u6728 03"
+    2100004: LED
+    2100006: "\u6795\u982D"
+    2100008: "\u6BDB\u5DFE"
+    2100010: "\u88AB\u5B50"
+    2100012: "\u5927\u7406\u77F3"
+    2300000: "\u5E8A 04"
+    2300002: "\u5E8A\u982D\u6AC3 L 04"
+    2300004: "\u5E8A\u982D\u6AC3 R 04"
+    2300006: "\u5E95\u5EA7 04"
+    2300008: "\u6795\u982D L 04"
+    2300010: "\u6795\u982D R 04"
+    2300012: "\u6BDB\u6BEF 04"
+    2300014: "\u80CC\u677F B 04"
+    2300016: "\u80CC\u677F F 04"
+    2300018: "\u80CC\u677F F2 L 04"
+    2300020: "\u80CC\u677F F2 R 04"
+    2300022: "\u80CC\u677F M L 04"
+    2300024: "\u80CC\u677F M R 04"
+    2300026: "\u88AB\u5B50 04"
+    3300000: "\u5E8A 04"
+    3300002: "\u5E8A\u982D\u6AC3 L 04"
+    3300004: "\u5E8A\u982D\u6AC3 R 04"
+    3300006: "\u5E95\u5EA7 04"
+    3300008: "\u6795\u982D L 04"
+    3300010: "\u6795\u982D R 04"
+    3300012: "\u6BDB\u6BEF 04"
+    3300014: "\u80CC\u677F B 04"
+    3300016: "\u80CC\u677F F 04"
+    3300018: "\u80CC\u677F F2 L 04"
+    3300020: "\u80CC\u677F F2 R 04"
+    3300022: "\u80CC\u677F M L 04"
+    3300024: "\u80CC\u677F M R 04"
+    3300026: "\u88AB\u5B50 04"
+    4300000: "\u5E8A 04"
+    4300002: "\u5E95\u5EA7 04"
+    4300004: "\u6795\u982D L 04"
+    4300006: "\u6795\u982D R 04"
+    4300008: "\u6BDB\u6BEF 04"
+    4300010: "\u88AB\u5B50 04"
+    4300012: "\u80CC\u677F F 04"
+    4300014: "\u80CC\u677F F2 R 04"
+    4300016: "\u80CC\u677F B 04"
+    4300018: "\u80CC\u677F F2 L 04"
+    4300020: "\u80CC\u677F M R 04"
+    4300022: "\u80CC\u677F M L 04"
+    4300024: "\u5E8A\u982D\u6AC3 L 04"
+    4300026: "\u5E8A\u982D\u6AC3 R 04"
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LED
+    second: {fileID: 2100000, guid: ecb1eeefbe82e154fac95becf0def5e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u5927\u7406\u77F3"
+    second: {fileID: 2100000, guid: 0a86417774cd8c6409c0a6f104128349, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u5E8A"
+    second: {fileID: 2100000, guid: 444240197feb2ce4799e1bb72c79771d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6795\u982D"
+    second: {fileID: 2100000, guid: 0a49f6de1558d6b43b4bc5a1b855f3c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6BDB\u5DFE"
+    second: {fileID: 2100000, guid: 3e76189647277664c96c337f6b2c2d5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6DF1\u8272\u6728 03"
+    second: {fileID: 2100000, guid: b18fe81662c796446810708142beb918, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u88AB\u5B50"
+    second: {fileID: 2100000, guid: 949ece33ae81c8848a93545c76b684a3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
